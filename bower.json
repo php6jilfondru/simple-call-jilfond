@@ -1,3 +1,10 @@
 {
-  "name": "simple-call-jilfond"
+  "name": "simple-call-jilfond",
+  "location": "php6jilfondru/simple-call-jilfond",
+  "version": "1.0",
+  "description": "Простые звонки с bower.json",
+  "homepage": "",
+  "main": [
+    "prostiezvonki.min.js"
+  ]
 }
