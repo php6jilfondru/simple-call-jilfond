@@ -5,6 +5,6 @@
   "description": "Простые звонки с bower.json",
   "homepage": "",
   "main": [
-    "prostiezvonki.min.js"
+    "prostiezvonki.js"
   ]
 }
