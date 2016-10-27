@@ -1,3 +1,8 @@
+Установка
+===
+
+bower register simple-call-jilfond https://github.com/php6jilfondru/simple-call-jilfond
+
 API
 ===
 
